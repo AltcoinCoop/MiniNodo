@@ -17,7 +17,7 @@ var prompt = require('prompt');
 
 
 var portset = process.env.PORT || 3000;
-var simplewalletport = 18082;
+var simplewalletport = 24091;
 
 //simple way to do it, will update later..
 //for now: password is first arg, server port is second arg, simplewallet port is third arg
